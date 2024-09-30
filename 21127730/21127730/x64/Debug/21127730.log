@@ -1,0 +1,7 @@
+﻿  21127730.cpp
+D:\source\repos\ComputerVision\Lab01\Sources\21127730\21127730\21127730.cpp(64,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ImgProcessing.cpp
+D:\source\repos\ComputerVision\Lab01\Sources\21127730\21127730\ImgProcessing.cpp(194,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\source\repos\ComputerVision\Lab01\Sources\21127730\21127730\ImgProcessing.cpp(206,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  21127730.vcxproj -> D:\source\repos\ComputerVision\Lab01\Sources\21127730\x64\Debug\21127730.exe
